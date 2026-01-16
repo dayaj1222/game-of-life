@@ -54,8 +54,6 @@ python setup.py
 ![Draw](./screenshots/flag.png)
 ![Play](./screenshots/play.png)
 
-![Main Screen](screenshots/main_screen.png)
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
